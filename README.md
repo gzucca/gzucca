@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Zucca</h1>
 <h3 align="center">Full Stack developer from Argentina</h3>
 
+I'm a passionate and hardworking newcomer in Web Development. I have recently graduated from "Soy Henry" Coding Bootcamp and now I'm eager to see what this profession has in for me.
+
 - 🌱 I’m currently learning **Typescript and React Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gzucca.vercel.app/](https://portfolio-gzucca.vercel.app/)
