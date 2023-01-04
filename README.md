@@ -7,9 +7,9 @@ I'm a passionate and hardworking newcomer in Web Development. I have recently gr
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gzucca.vercel.app/](https://portfolio-gzucca.vercel.app/)
 
-- 📫 How to reach me **gonzalo.zucca@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-je9TGhsldLceSW3588D4Y1Mz1--qM0v/view?usp=sharing](https://drive.google.com/file/d/1-je9TGhsldLceSW3588D4Y1Mz1--qM0v/view?usp=sharing)
+
+- 📫 How to reach me **gonzalo.zucca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
