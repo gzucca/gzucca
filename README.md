@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Zucca</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gzucca" alt="gzucca" /></a> </p>
-
 - 🌱 I’m currently learning **AWS technologies and Python**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gzucca.vercel.app/](https://portfolio-gzucca.vercel.app/)
