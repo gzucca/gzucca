@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Zucca</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **AWS technologies and Python**
+- 🌱 I’m currently learning **WordPress and PHP**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gzucca.vercel.app/](https://portfolio-gzucca.vercel.app/)
 
 - 📫 How to reach me **gonzalo.zucca@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lqPM_Bl86Kb0fsAyYzNnHzHKOjQFbY3x/view?usp=share_link](https://drive.google.com/file/d/1lqPM_Bl86Kb0fsAyYzNnHzHKOjQFbY3x/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BeehRcUjj9skcrmxUNVR1NnpwaEzDjdc/view?usp=drive_link](https://drive.google.com/file/d/1BeehRcUjj9skcrmxUNVR1NnpwaEzDjdc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
